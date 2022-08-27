@@ -1,4 +1,3 @@
-# readme
 <h1 align="center">Hi 👋, I'm Saurav Sharma</h1>
 <h3 align="center">A passionate Django developer from India</h3>
 
