@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Django developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selftaughtdev-me&label=Profile%20views&color=0e75b6&style=flat" alt="selftaughtdev-me" /> </p>
+https://api.daily.dev/devcards/4e03763856514e05aec22380584985ad.png?r=qxz
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selftaughtdev-me" alt="selftaughtdev-me" /></a> </p>
 
