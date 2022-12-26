@@ -37,15 +37,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selftaughtdev-me&show_icons=true&locale=en" alt="selftaughtdev-me" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selftaughtdev-me&" alt="selftaughtdev-me" /></p>
+
 ## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-- [Effortlessly improve the quality and consistency of your code with these pre-commit Hooks!](https://selftaughtdev.me//effortlessly-improve-the-quality-and-consistency-of-your-code-with-these-pre-commit-hooks)
-- [Never Worry About Inconsistent Coding Styles Again: Introducing .editorconfig ✨](https://selftaughtdev.me//never-worry-about-inconsistent-coding-styles-again-introducing-editorconfig)
-- [Boost your Django skills: Learn how to use super()](https://selftaughtdev.me//boost-your-django-skills-learn-how-to-use-super)
-- [Deploy Django App over Ubuntu VPS with Gunicorn + Nginix + PostgreSQL](https://selftaughtdev.me//deploy-django-app-over-ubuntu-vps-with-gunicorn-nginix-postgresql)
-- [Dockerize an Django Based app along Postgres + Redis + ElasticSearch 🚀](https://selftaughtdev.me//dockerize-an-django-based-app-along-postgres-redis-elasticsearch)
-- [Extract Keyword from a Website using Python](https://selftaughtdev.me//extract-keyword-from-a-website-using-python)
-- [Make your API to return only Required Fields](https://selftaughtdev.me//make-your-api-to-return-only-required-fields)
-- [Build Blazing Fast REST Api using Django + Elasticsearch + Haystack](https://selftaughtdev.me//build-blazing-fast-rest-api-using-django-elasticsearch-haystack)
-<!-- HASHNODE_BLOG:END -->
+
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
