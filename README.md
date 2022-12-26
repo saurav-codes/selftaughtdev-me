@@ -37,3 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selftaughtdev-me&show_icons=true&locale=en" alt="selftaughtdev-me" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selftaughtdev-me&" alt="selftaughtdev-me" /></p>
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
