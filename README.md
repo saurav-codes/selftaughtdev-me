@@ -40,4 +40,10 @@
 
 ## My Latest Blog Posts 👇
 
- <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+ <!-- BLOG-POST-LIST:START -->
+- [Effortlessly improve the quality and consistency of your code with these pre-commit Hooks!](https://selftaughtdev.me/effortlessly-improve-the-quality-and-consistency-of-your-code-with-these-pre-commit-hooks)
+- [Never Worry About Inconsistent Coding Styles Again: Introducing .editorconfig ✨](https://selftaughtdev.me/never-worry-about-inconsistent-coding-styles-again-introducing-editorconfig)
+- [Boost your Django skills: Learn how to use super&lpar;&rpar;](https://selftaughtdev.me/boost-your-django-skills-learn-how-to-use-super)
+- [Deploy Django App over Ubuntu VPS with Gunicorn + Nginix + PostgreSQL](https://selftaughtdev.me/deploy-django-app-over-ubuntu-vps-with-gunicorn-nginix-postgresql)
+- [Dockerize an Django Based app along Postgres + Redis + ElasticSearch 🚀](https://selftaughtdev.me/dockerize-an-django-based-app-along-postgres-redis-elasticsearch)
+<!-- BLOG-POST-LIST:END -->
