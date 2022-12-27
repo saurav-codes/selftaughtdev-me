@@ -17,7 +17,7 @@ jobs:
               uses: "varunsridharan/action-hashnode-blog@main"
               with:
                   USERNAME: "selftaughtdev"
-                  COUNT: 6
-                  STYLE: "blog-grid"
+                  COUNT: 9
+                  STYLE: "blog-grid-3"
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
