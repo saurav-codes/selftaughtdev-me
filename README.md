@@ -40,6 +40,4 @@
 
 ## My Latest Blog Posts 👇
 
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
-
+ <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
