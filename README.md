@@ -40,5 +40,47 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<table><tr><td><a href="https://selftaughtdev.hashnode.dev/effortlessly-improve-the-quality-and-consistency-of-your-code-with-these-pre-commit-hooks-clc4tc50d000008mi6ks90hc3" title="Effortlessly improve the quality and consistency of your code with these pre-commit Hooks!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672059915655/c6e449c1-46d5-4b5e-8d15-7de1c6c1c4bf.png" alt="Effortlessly improve the quality and consistency of your code with these pre-commit Hooks!"   /></a>
+<a href="https://selftaughtdev.hashnode.dev/effortlessly-improve-the-quality-and-consistency-of-your-code-with-these-pre-commit-hooks-clc4tc50d000008mi6ks90hc3" title="Effortlessly improve the quality and consistency of your code with these pre-commit Hooks!"><strong>Effortlessly improve the quality and consistency of your code with these pre-commit Hooks!</strong></a>
+<div><strong>26 Dec 2022</strong></div>
+<br/> Using pre-commit tools can be a great way to improve the quality and consistency of your code, as well as streamline your development workflow. Pre-commit tools are tools that run automatically before you commit your code changes to a version control...</td><td><a href="https://selftaughtdev.hashnode.dev/never-worry-about-inconsistent-coding-styles-again-introducing-editorconfig-clc4ry9qy000p08l66z69g2fk" title="Never Worry About Inconsistent Coding Styles Again: Introducing .editorconfig ✨"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672056795233/19995665-4584-427a-bc96-f188dd3d4f9e.png" alt="Never Worry About Inconsistent Coding Styles Again: Introducing .editorconfig ✨"   /></a>
+<a href="https://selftaughtdev.hashnode.dev/never-worry-about-inconsistent-coding-styles-again-introducing-editorconfig-clc4ry9qy000p08l66z69g2fk" title="Never Worry About Inconsistent Coding Styles Again: Introducing .editorconfig ✨"><strong>Never Worry About Inconsistent Coding Styles Again: Introducing .editorconfig ✨</strong></a>
+<div><strong>26 Dec 2022</strong></div>
+<br/> The .editorconfig file is a simple configuration file that helps developers define and maintain consistent coding styles between different editors and IDEs. It is a plain text file that can be placed in the root directory of a project, and specifies ...</td><td><a href="https://selftaughtdev.hashnode.dev/boost-your-django-skills-learn-how-to-use-super-clbs4z9ci000908ig5k6w79z7" title="Boost your Django skills: Learn how to use super()"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671293268493/TluYVsnJo.png" alt="Boost your Django skills: Learn how to use super()"   /></a>
+<a href="https://selftaughtdev.hashnode.dev/boost-your-django-skills-learn-how-to-use-super-clbs4z9ci000908ig5k6w79z7" title="Boost your Django skills: Learn how to use super()"><strong>Boost your Django skills: Learn how to use super()</strong></a>
+<div><strong>17 Dec 2022</strong></div>
+<br/> The super() keyword is a useful tool in Django, a high-level Python web framework, for working with inheritance in classes. It allows a subclass to refer to its parent class, allowing the subclass to inherit attributes and methods from the parent cla...</td></tr><tr><td><a href="https://selftaughtdev.hashnode.dev/deploy-django-app-over-ubuntu-vps-with-gunicorn-nginix-postgresql-clbn7j4n9000008l46jgi858g" title="Deploy Django App over Ubuntu VPS with Gunicorn + Nginix + PostgreSQL"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670779013693/igLOJ9a3b.png" alt="Deploy Django App over Ubuntu VPS with Gunicorn + Nginix + PostgreSQL"   /></a>
+<a href="https://selftaughtdev.hashnode.dev/deploy-django-app-over-ubuntu-vps-with-gunicorn-nginix-postgresql-clbn7j4n9000008l46jgi858g" title="Deploy Django App over Ubuntu VPS with Gunicorn + Nginix + PostgreSQL"><strong>Deploy Django App over Ubuntu VPS with Gunicorn + Nginix + PostgreSQL</strong></a>
+<div><strong>14 Dec 2022</strong> | <strong>Updated: 14 Dec 2022</strong></div>
+<br/> In this tutorial, we will deploy a Django app over Ubuntu VPS with Gunicorn + Nginix. We are going to use Vultr VPS for this tutorial. You can use any other VPS provider as well.
+1. Create a new user
+
+adduser yourusername
+
+usermod -aG sudo youruserna...</td><td><a href="https://selftaughtdev.hashnode.dev/dockerize-an-django-based-app-along-postgres-redis-elasticsearch-cla9so4wc000c08mi7oq9dxln" title="Dockerize an Django Based app along Postgres + Redis + ElasticSearch 🚀"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1668005110826/0khOAsES3.png" alt="Dockerize an Django Based app along Postgres + Redis + ElasticSearch 🚀"   /></a>
+<a href="https://selftaughtdev.hashnode.dev/dockerize-an-django-based-app-along-postgres-redis-elasticsearch-cla9so4wc000c08mi7oq9dxln" title="Dockerize an Django Based app along Postgres + Redis + ElasticSearch 🚀"><strong>Dockerize an Django Based app along Postgres + Redis + ElasticSearch 🚀</strong></a>
+<div><strong>9 Nov 2022</strong></div>
+<br/> Docker is a wonderful tool to containerise your website. A website have many micro services & inter dependent in most of the cases. Things even get more worse when we try to setup our app on different PC / Operating System. Docker is a lifesaver in t...</td><td><a href="https://selftaughtdev.hashnode.dev/extract-keyword-from-a-website-using-python-cl9cs73c8000g09mh15dkamaz" title="Extract Keyword from a Website using Python"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/OqtafYT5kTw/upload/v1666011298864/hpTywrXfY.jpeg" alt="Extract Keyword from a Website using Python"   /></a>
+<a href="https://selftaughtdev.hashnode.dev/extract-keyword-from-a-website-using-python-cl9cs73c8000g09mh15dkamaz" title="Extract Keyword from a Website using Python"><strong>Extract Keyword from a Website using Python</strong></a>
+<div><strong>17 Oct 2022</strong></div>
+<br/> """
+Run this command in Terminal after activating environment:
+python -c "import nltk;nltk.download('stopwords')"
+python -c "import nltk;nltk.download('punkt')"
+"""
+
+from bs4 import BeautifulSoup
+import requests
+from rake_nltk import Rake
+
+rake = Rak...</td></tr><tr><td><a href="https://selftaughtdev.hashnode.dev/make-your-api-to-return-only-required-fields-cl99mjf7x000v09le4z3ebylk" title="Make your API to return only Required Fields"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665814048048/z0K-pHpvv.png" alt="Make your API to return only Required Fields"   /></a>
+<a href="https://selftaughtdev.hashnode.dev/make-your-api-to-return-only-required-fields-cl99mjf7x000v09le4z3ebylk" title="Make your API to return only Required Fields"><strong>Make your API to return only Required Fields</strong></a>
+<div><strong>15 Oct 2022</strong> | <strong>Updated: 16 Oct 2022</strong></div>
+<br/> Hey Folks,
+In this Blog, I am going to show you how can return only those fields from the API which user have requested by passing them in URL as parameters. this way your API users can only request those fields which they need & this will remove som...</td><td><a href="https://selftaughtdev.hashnode.dev/build-blazing-fast-rest-api-using-django-elasticsearch-haystack-cl91ewbs0001809l37c4v9aa0" title="Build Blazing Fast REST Api using Django + Elasticsearch + Haystack"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665312683355/ONoaS3v96.png" alt="Build Blazing Fast REST Api using Django + Elasticsearch + Haystack"   /></a>
+<a href="https://selftaughtdev.hashnode.dev/build-blazing-fast-rest-api-using-django-elasticsearch-haystack-cl91ewbs0001809l37c4v9aa0" title="Build Blazing Fast REST Api using Django + Elasticsearch + Haystack"><strong>Build Blazing Fast REST Api using Django + Elasticsearch + Haystack</strong></a>
+<div><strong>9 Oct 2022</strong> | <strong>Updated: 10 Oct 2022</strong></div>
+<br/> Search is a most important part of your website and a fast search is even more important. While user can't find things manually or running out of time, he uses the search & having a slow search can frustrate your user even more
+In this Blog, we will ...</td></tr></table>
 <!-- HASHNODE_BLOG:END -->
 
