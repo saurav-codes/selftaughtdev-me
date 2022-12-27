@@ -4,7 +4,6 @@ on:
     schedule:
         # Runs every hour
         - cron: "0 * * * *"
-        
 
 jobs:
     update-readme-with-blog:
@@ -12,6 +11,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - uses: varunsridharan/demo-action-hashnode-blog@main
               with:
                   feed_list: "https://selftaughtdev.me/rss.xml"
