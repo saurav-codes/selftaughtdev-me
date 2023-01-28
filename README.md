@@ -7,7 +7,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selftaughtdev-me" alt="selftaughtdev-me" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/selftaughtdev_" target="blank"><img src="https://img.shields.io/twitter/follow/selftaughtdev_?logo=twitter&style=for-the-badge" alt="@selftaughtdev_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/selftaughtdev_" target="blank"><img src="https://img.shields.io/twitter/follow/selftaughtdev_?logo=twitter&style=for-the-badge" alt="@selftaughtdev_" /></a>
+<a href="https://peerlist.io/saurav_sharma">
+  <img src="https://github-readme-badge.peerlist.io/api/saurav_sharma?style=for-the-badge" >
+</a>
+</p>
+
 
 - 🔭 I’m currently working on [Email Verifier](https://emailverifier.co/)
 
