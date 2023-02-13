@@ -23,7 +23,7 @@ Connecting to a PostgreSQL database running on an Ubuntu VPS from a local machin
     sudo vi pg_hba.conf
     ```
     
-    * under IPv4 local connections, set it to your ipaddress or `0.0.0.0/0` if your IP is dynamic.
+    * under `IPv4 local connections`, set it to your ipaddress or `0.0.0.0/0` if your IP is dynamic.
         
         ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1672194472641/b31e0ba7-b4fe-42d8-ad95-d2d3e82a4eae.png align="center")
         
