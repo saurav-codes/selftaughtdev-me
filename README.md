@@ -47,7 +47,7 @@
 <!-- HASHNODE_BLOG:START -->
 <table><tr><td><a href="https://selftaughtdev.hashnode.dev/get-access-to-your-remote-postgresql-database-running-on-vps-in-no-time-heres-how-clc72z3wy000308md3lyhd3s2" title="Get Access to Your Remote PostgreSQL Database running on VPS in No Time: Here's How"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1672197027277/df6cee5e-babb-4afc-bca7-39a6b85e2ab8.png" alt="Get Access to Your Remote PostgreSQL Database running on VPS in No Time: Here's How"   /></a>
 <a href="https://selftaughtdev.hashnode.dev/get-access-to-your-remote-postgresql-database-running-on-vps-in-no-time-heres-how-clc72z3wy000308md3lyhd3s2" title="Get Access to Your Remote PostgreSQL Database running on VPS in No Time: Here's How"><strong>Get Access to Your Remote PostgreSQL Database running on VPS in No Time: Here's How</strong></a>
-<div><strong>28 Dec 2022</strong></div>
+<div><strong>28 Dec 2022</strong> | <strong>Updated: 13 Feb 2023</strong></div>
 <br/> Connecting to a PostgreSQL database running on an Ubuntu VPS from a local machine using VS Code involves the following steps:
 
 Install the "PostgreSQL" extension in VS Code:
