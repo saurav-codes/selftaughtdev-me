@@ -3,6 +3,7 @@ title: "Unveiling Django's Powerful Annotate Function"
 datePublished: Mon Jul 24 2023 10:59:32 GMT+0000 (Coordinated Universal Time)
 cuid: clkgra3mj000109mie2sc7otm
 slug: unveiling-djangos-powerful-annotate-function
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690197500119/734a96e8-cdb4-4a23-a4f7-4d37487db3ba.png
 tags: django, python3, sqlite, django-rest-framework, django-orm
 
 ---
